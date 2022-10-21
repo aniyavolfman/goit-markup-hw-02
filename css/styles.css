@@ -77,7 +77,7 @@ body {
     color: var(--main-text-color);
 }
 
-.site-nav .item .top-link:hover, .site-nav .item.top-link:focus {
+.site-nav .item .top-link:hover, .site-nav .item .top-link:focus {
     color: var(--secondary-web-text-color);
 }
 
@@ -247,6 +247,6 @@ body {
 .contacts:hover, .contacts:focus {
     color: var(--secondary-web-text-color);
 }
-.location:hover {
+.location:hover, .location:focus {
     color: var(--secondary-web-text-color);
 }
